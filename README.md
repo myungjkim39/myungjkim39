@@ -16,10 +16,10 @@ I have mostly developed applications with React, Node, and Express so I would li
 
 **THESE ARE MY SKILLS**
 
-**HTML | CSS | JavaScipt | React | Node JS | Node Express | Tailwind | Docker | MongoDB | MySQL | Azure**
+**HTML | CSS | JavaScipt | React | Node JS | Node Express | Tailwind | Docker | MongoDB | MySQL | Azure | Flutter**
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,docker,mongodb,mysql,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,docker,mongodb,mysql,azure,flutter)](https://skillicons.dev)
 
 
 
